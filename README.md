@@ -1,6 +1,4 @@
 UI:
-![Screenshot_1696736062](https://github.com/benzaminbikash/zomato_reactnativeui/assets/100546656/5f6fec85-df59-43b7-9186-c4718af0dd41)
-
 ![Screenshot_1696681182](https://github.com/benzaminbikash/zomato_reactnativeui/assets/100546656/3afd10ba-5fc2-44e0-a13c-118f9fc5bdc6)
 
 ![Screenshot_1696681198](https://github.com/benzaminbikash/zomato_reactnativeui/assets/100546656/c9ffaa3e-e323-41b4-b97f-00df837dd1b9)
