@@ -29,7 +29,6 @@ const RoomHeader = () => {
         <Ionicons name="chevron-back-outline" size={24} color="white" />
       </Pressable>
       <View style={{ flexDirection: "row", gap: 10, alignItems: "center" }}>
-        <Ionicons name="md-camera-outline" size={24} color="black" />
         <Octicons name="bookmark" size={24} color="black" />
         <MaterialCommunityIcons name="share-outline" size={24} color="black" />
       </View>
